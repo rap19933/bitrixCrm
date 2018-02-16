@@ -1,0 +1,153 @@
+Array
+(
+    [TIME] => 2018-02-15 15:54:34
+    [DATA] => Array
+        (
+            [externalId] => 1
+            [email] => rap19933@gmail.com
+            [createdAt] => 2018-02-15 15:25:12
+            [contragentType] => individual
+            [firstName] => Сергей
+            [lastName] => Матяшов
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 15:54:34
+    [DATA] => Array
+        (
+            [externalId] => 1
+            [email] => rap19933@gmail.com
+            [createdAt] => 2018-02-15 15:25:12
+            [contragentType] => individual
+            [firstName] => Сергей
+            [lastName] => Матяшов
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 15:54:34
+    [DATA] => Array
+        (
+            [externalId] => 1
+            [email] => rap19933@gmail.com
+            [createdAt] => 2018-02-15 15:25:12
+            [contragentType] => individual
+            [firstName] => Сергей
+            [lastName] => Матяшов
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 15:54:34
+    [DATA] => Array
+        (
+            [externalId] => 1
+            [email] => rap19933@gmail.com
+            [createdAt] => 2018-02-15 15:25:12
+            [contragentType] => individual
+            [firstName] => Сергей
+            [lastName] => Матяшов
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 15:54:34
+    [DATA] => Array
+        (
+            [externalId] => 1
+            [email] => rap19933@gmail.com
+            [createdAt] => 2018-02-15 15:25:12
+            [contragentType] => individual
+            [firstName] => Сергей
+            [lastName] => Матяшов
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:02:25
+    [DATA] => Array
+        (
+            [externalId] => 1
+            [email] => rap19933@gmail.com
+            [createdAt] => 2018-02-15 15:25:12
+            [contragentType] => individual
+            [firstName] => Сергей
+            [lastName] => Матяшов
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:35:39
+    [DATA] => Array
+        (
+            [externalId] => 1
+            [email] => rap19933@gmail.com
+            [createdAt] => 2018-02-15 15:25:12
+            [contragentType] => individual
+            [firstName] => Сергей
+            [lastName] => Матяшов
+            [phones] => Array
+                (
+                    [0] => Array
+                        (
+                            [number] => 000000000
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:25:42
+    [DATA] => Array
+        (
+            [externalId] => 1
+            [email] => rap19933@gmail.com
+            [createdAt] => 2018-02-15 15:25:12
+            [contragentType] => individual
+            [firstName] => Сергей
+            [lastName] => Матяшов
+            [phones] => Array
+                (
+                    [0] => Array
+                        (
+                            [number] => 000000000
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:00:31
+    [DATA] => Array
+        (
+            [externalId] => 4
+            [email] => ra@w.re
+            [createdAt] => 2018-02-15 18:43:44
+            [contragentType] => individual
+            [firstName] => новый
+            [lastName] => новыйф
+            [phones] => Array
+                (
+                    [0] => Array
+                        (
+                            [number] => 6666666666666
+                        )
+
+                )
+
+        )
+
+)

@@ -1,0 +1,344 @@
+Array
+(
+    [TIME] => 2018-02-15 17:35:39
+    [DATA] => Array
+        (
+            [id] => 49
+            [externalId] => 7
+            [site] => bitrix_test
+            [status] => new
+            [items] => Array
+                (
+                    [124] => Array
+                        (
+                            [id] => 124
+                            [initialPrice] => 1199
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 17:35:18
+                            [quantity] => 2
+                            [status] => new
+                            [offer] => Array
+                                (
+                                    [id] => 248
+                                    [externalId] => 144
+                                    [xmlId] => 346
+                                    [name] => Нижнее белье Розовое Смущенье
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                            [create] => 1
+                        )
+
+                    [125] => Array
+                        (
+                            [id] => 125
+                            [initialPrice] => 2999
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 17:35:18
+                            [quantity] => 1
+                            [status] => new
+                            [offer] => Array
+                                (
+                                    [id] => 292
+                                    [externalId] => 98
+                                    [xmlId] => 266
+                                    [name] => Платье Весенняя Легкость
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                            [create] => 1
+                        )
+
+                    [120] => Array
+                        (
+                            [id] => 120
+                            [initialPrice] => 750
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 12:52:55
+                            [quantity] => 1
+                            [status] => saled
+                            [offer] => Array
+                                (
+                                    [id] => 76
+                                    [externalId] => 309
+                                    [xmlId] => 633
+                                    [name] => Ремень Плетение
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                            [delete] => 1
+                        )
+
+                    [121] => Array
+                        (
+                            [id] => 121
+                            [initialPrice] => 715
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 12:52:55
+                            [quantity] => 1
+                            [status] => saled
+                            [offer] => Array
+                                (
+                                    [id] => 77
+                                    [externalId] => 316
+                                    [xmlId] => 644
+                                    [name] => Ремень Грубая Кожа
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                            [delete] => 1
+                        )
+
+                )
+
+            [createdAt] => 2018-02-15 17:35:18
+            [delivery] => Array
+                (
+                    [cost] => 993.87
+                    [code] => spsr-expres
+                )
+
+            [firstName] => Матяшов
+            [lastName] => Сергей
+            [phone] => 000000000
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:04:32
+    [DATA] => Array
+        (
+            [id] => 49
+            [externalId] => 7
+            [site] => bitrix_test
+            [status] => complete
+            [payments] => Array
+                (
+                    [59] => Array
+                        (
+                            [id] => 59
+                            [type] => cash
+                            [externalId] => 6
+                        )
+
+                )
+
+            [items] => Array
+                (
+                    [124] => Array
+                        (
+                            [id] => 124
+                            [offer] => Array
+                                (
+                                    [id] => 248
+                                    [externalId] => 144
+                                    [xmlId] => 346
+                                )
+
+                            [status] => Array
+                                (
+                                    [code] => saled
+                                )
+
+                        )
+
+                    [125] => Array
+                        (
+                            [id] => 125
+                            [offer] => Array
+                                (
+                                    [id] => 292
+                                    [externalId] => 98
+                                    [xmlId] => 266
+                                )
+
+                            [status] => Array
+                                (
+                                    [code] => saled
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:25:42
+    [DATA] => Array
+        (
+            [id] => 50
+            [externalId] => 8
+            [site] => bitrix_test
+            [status] => new
+            [items] => Array
+                (
+                    [126] => Array
+                        (
+                            [id] => 126
+                            [initialPrice] => 749
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 18:24:29
+                            [quantity] => 45
+                            [status] => new
+                            [offer] => Array
+                                (
+                                    [id] => 231
+                                    [externalId] => 157
+                                    [xmlId] => 370
+                                    [name] => Футболка Женская Чистота
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 999
+                            [create] => 1
+                        )
+
+                    [122] => Array
+                        (
+                            [id] => 122
+                            [initialPrice] => 750
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 13:27:34
+                            [quantity] => 1
+                            [status] => new
+                            [offer] => Array
+                                (
+                                    [id] => 76
+                                    [externalId] => 309
+                                    [xmlId] => 633
+                                    [name] => Ремень Плетение
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                            [delete] => 1
+                        )
+
+                )
+
+            [createdAt] => 2018-02-15 18:24:29
+            [delivery] => Array
+                (
+                    [code] => courier
+                )
+
+            [phone] => 000000000
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:00:30
+    [DATA] => Array
+        (
+            [id] => 51
+            [externalId] => 9
+            [site] => bitrix_test
+            [status] => new
+            [items] => Array
+                (
+                    [127] => Array
+                        (
+                            [id] => 127
+                            [initialPrice] => 1199
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 18:45:10
+                            [quantity] => 3
+                            [status] => new
+                            [offer] => Array
+                                (
+                                    [id] => 249
+                                    [externalId] => 145
+                                    [xmlId] => 347
+                                    [name] => Нижнее белье Розовое Смущенье
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                            [create] => 1
+                        )
+
+                    [123] => Array
+                        (
+                            [id] => 123
+                            [initialPrice] => 750
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 13:41:57
+                            [quantity] => 1
+                            [status] => new
+                            [offer] => Array
+                                (
+                                    [id] => 76
+                                    [externalId] => 309
+                                    [xmlId] => 633
+                                    [name] => Ремень Плетение
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                            [delete] => 1
+                        )
+
+                )
+
+            [createdAt] => 2018-02-15 18:45:10
+            [customerComment] => 2626262626
+            [delivery] => Array
+                (
+                    [cost] => 0
+                    [code] => self-delivery
+                )
+
+            [email] => ra@w.re
+            [firstName] => новыйф
+            [lastName] => новый
+            [phone] => 6666666666666
+            [payments] => Array
+                (
+                    [62] => Array
+                        (
+                            [id] => 62
+                            [status] => not-paid
+                            [type] => bank-card
+                            [externalId] => 9
+                            [amount] => 3597
+                            [create] => 1
+                        )
+
+                )
+
+        )
+
+)

@@ -1,0 +1,707 @@
+Array
+(
+    [TIME] => 2018-02-15 16:09:39
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 16:21:16
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 16:31:26
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 16:42:05
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 16:52:15
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:02:25
+    [DATA] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 439
+                    [createdAt] => 2018-02-15 16:57:49
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [code] => nedavnie
+                        )
+
+                    [customer] => Array
+                        (
+                            [id] => 28
+                            [externalId] => 4
+                            [site] => bitrix_test
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 440
+                    [createdAt] => 2018-02-15 16:57:49
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [code] => malenkaya-summa-pokupok
+                        )
+
+                    [customer] => Array
+                        (
+                            [id] => 28
+                            [externalId] => 4
+                            [site] => bitrix_test
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [id] => 441
+                    [createdAt] => 2018-02-15 16:57:49
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [code] => nizkiy-ltv
+                        )
+
+                    [customer] => Array
+                        (
+                            [id] => 28
+                            [externalId] => 4
+                            [site] => bitrix_test
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [id] => 442
+                    [createdAt] => 2018-02-15 16:57:49
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [code] => nizkiy-sredniy-chek
+                        )
+
+                    [customer] => Array
+                        (
+                            [id] => 28
+                            [externalId] => 4
+                            [site] => bitrix_test
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [id] => 443
+                    [createdAt] => 2018-02-15 16:57:49
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [code] => bez-otmen
+                        )
+
+                    [customer] => Array
+                        (
+                            [id] => 28
+                            [externalId] => 4
+                            [site] => bitrix_test
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [id] => 444
+                    [createdAt] => 2018-02-15 16:57:49
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [code] => pol-ne-ukazan
+                        )
+
+                    [customer] => Array
+                        (
+                            [id] => 28
+                            [externalId] => 4
+                            [site] => bitrix_test
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [id] => 445
+                    [createdAt] => 2018-02-15 16:57:49
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [code] => razoviy-klient
+                        )
+
+                    [customer] => Array
+                        (
+                            [id] => 28
+                            [externalId] => 4
+                            [site] => bitrix_test
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:13:00
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:15:02
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:17:04
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:19:06
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:21:08
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:23:10
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:25:12
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:27:14
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:29:17
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:31:20
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:33:30
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:35:38
+    [DATA] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 446
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => code
+                    [field] => phones
+                    [oldValue] => 
+                    [newValue] => 000000000
+                    [customer] => Array
+                        (
+                            [id] => 27
+                            [externalId] => 1
+                            [site] => bitrix_test
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:37:41
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:39:43
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:41:45
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:43:47
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:46:09
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:48:13
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:50:28
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:54:18
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:58:25
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:00:27
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:02:29
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:04:31
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:06:33
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:08:36
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:11:06
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:13:09
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:16:35
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:21:02
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:23:26
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:25:42
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:28:07
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:30:38
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:33:05
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:35:36
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:41:58
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:44:27
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:00:30
+    [DATA] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 447
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => code
+                    [field] => phones
+                    [oldValue] => 
+                    [newValue] => 6666666666666
+                    [customer] => Array
+                        (
+                            [id] => 28
+                            [externalId] => 4
+                            [site] => bitrix_test
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 448
+                    [createdAt] => 2018-02-15 20:22:01
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [code] => bolshoy-ltv
+                        )
+
+                    [customer] => Array
+                        (
+                            [id] => 27
+                            [externalId] => 1
+                            [site] => bitrix_test
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [id] => 449
+                    [createdAt] => 2018-02-15 20:22:01
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => Array
+                        (
+                            [code] => sredniy-ltv
+                        )
+
+                    [newValue] => 
+                    [customer] => Array
+                        (
+                            [id] => 27
+                            [externalId] => 1
+                            [site] => bitrix_test
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [id] => 450
+                    [createdAt] => 2018-02-15 20:22:01
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [code] => normalniy-sredniy-chek
+                        )
+
+                    [customer] => Array
+                        (
+                            [id] => 27
+                            [externalId] => 1
+                            [site] => bitrix_test
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [id] => 451
+                    [createdAt] => 2018-02-15 20:22:01
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => Array
+                        (
+                            [code] => nizkiy-sredniy-chek
+                        )
+
+                    [newValue] => 
+                    [customer] => Array
+                        (
+                            [id] => 27
+                            [externalId] => 1
+                            [site] => bitrix_test
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [id] => 452
+                    [createdAt] => 2018-02-15 20:22:01
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [code] => razoviy-klient
+                        )
+
+                    [customer] => Array
+                        (
+                            [id] => 27
+                            [externalId] => 1
+                            [site] => bitrix_test
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [id] => 453
+                    [createdAt] => 2018-02-15 20:22:01
+                    [source] => code
+                    [field] => segments
+                    [oldValue] => Array
+                        (
+                            [code] => razoviy-klient
+                        )
+
+                    [newValue] => 
+                    [customer] => Array
+                        (
+                            [id] => 28
+                            [externalId] => 4
+                            [site] => bitrix_test
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:05:16
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:35:31
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:44:06
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 08:40:36
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 10:13:50
+    [DATA] => Array
+        (
+        )
+
+)

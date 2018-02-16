@@ -1,0 +1,1067 @@
+Array
+(
+    [TIME] => 2018-02-15 15:54:34
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersUpload
+            [errorMsg] => Customers are loaded with errors
+            [errors] => Array
+                (
+                    [0] => Customer with externalId=1 already exists.
+                    [1] => Customer with externalId=1 already exists.
+                    [2] => Customer with externalId=1 already exists.
+                    [3] => Customer with externalId=1 already exists.
+                    [4] => Customer with externalId=1 already exists.
+                )
+
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [externalId] => 1
+                                    [email] => rap19933@gmail.com
+                                    [createdAt] => 2018-02-15 15:25:12
+                                    [contragentType] => individual
+                                    [firstName] => Сергей
+                                    [lastName] => Матяшов
+                                )
+
+                            [1] => Array
+                                (
+                                    [externalId] => 1
+                                    [email] => rap19933@gmail.com
+                                    [createdAt] => 2018-02-15 15:25:12
+                                    [contragentType] => individual
+                                    [firstName] => Сергей
+                                    [lastName] => Матяшов
+                                )
+
+                            [2] => Array
+                                (
+                                    [externalId] => 1
+                                    [email] => rap19933@gmail.com
+                                    [createdAt] => 2018-02-15 15:25:12
+                                    [contragentType] => individual
+                                    [firstName] => Сергей
+                                    [lastName] => Матяшов
+                                )
+
+                            [3] => Array
+                                (
+                                    [externalId] => 1
+                                    [email] => rap19933@gmail.com
+                                    [createdAt] => 2018-02-15 15:25:12
+                                    [contragentType] => individual
+                                    [firstName] => Сергей
+                                    [lastName] => Матяшов
+                                )
+
+                            [4] => Array
+                                (
+                                    [externalId] => 1
+                                    [email] => rap19933@gmail.com
+                                    [createdAt] => 2018-02-15 15:25:12
+                                    [contragentType] => individual
+                                    [firstName] => Сергей
+                                    [lastName] => Матяшов
+                                )
+
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 15:54:34
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersUpload
+            [errorMsg] => Orders are loaded with errors
+            [errors] => Array
+                (
+                    [0] => Order with externalId=1 already exists.
+                    [1] => Order with externalId=2 already exists.
+                    [2] => Order with externalId=3 already exists.
+                    [3] => Order with externalId=4 already exists.
+                    [4] => Order with externalId=5 already exists.
+                )
+
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [number] => 1
+                                    [externalId] => 1
+                                    [createdAt] => 2018-02-15 15:26:27
+                                    [customer] => Array
+                                        (
+                                            [externalId] => 1
+                                        )
+
+                                    [orderType] => eshop-individual
+                                    [status] => complete
+                                    [delivery] => Array
+                                        (
+                                            [cost] => 0
+                                            [address] => Array
+                                                (
+                                                    [text] => ул. Первомайская 93
+                                                )
+
+                                        )
+
+                                    [contragent] => Array
+                                        (
+                                            [contragentType] => individual
+                                        )
+
+                                    [discountManualAmount] => 0
+                                    [discountManualPercent] => 0
+                                    [lastName] => Иванов
+                                    [firstName] => Петр
+                                    [email] => example@example.com
+                                    [phone] => 8 495 2312121
+                                    [items] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 63
+                                                        )
+
+                                                    [productName] => Штаны Жизнь в Абстракции
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 1899
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 91
+                                                        )
+
+                                                    [productName] => Штаны Цветочная Поляна
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 2199
+                                                )
+
+                                            [2] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 48
+                                                        )
+
+                                                    [productName] => Штаны Полосатый Рейс
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 1999
+                                                )
+
+                                        )
+
+                                    [payments] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [type] => cash
+                                                    [amount] => 6097
+                                                    [externalId] => 1
+                                                    [paidAt] => 2018-02-15 15:26:27
+                                                    [status] => paid
+                                                )
+
+                                        )
+
+                                )
+
+                            [1] => Array
+                                (
+                                    [number] => 2
+                                    [externalId] => 2
+                                    [createdAt] => 2018-02-15 15:26:27
+                                    [customer] => Array
+                                        (
+                                            [externalId] => 1
+                                        )
+
+                                    [orderType] => eshop-individual
+                                    [status] => complete
+                                    [delivery] => Array
+                                        (
+                                            [cost] => 0
+                                            [address] => Array
+                                                (
+                                                    [text] => ул. Первомайская 93
+                                                )
+
+                                        )
+
+                                    [contragent] => Array
+                                        (
+                                            [contragentType] => individual
+                                        )
+
+                                    [discountManualAmount] => 0
+                                    [discountManualPercent] => 0
+                                    [lastName] => Иванов
+                                    [firstName] => Петр
+                                    [email] => example@example.com
+                                    [phone] => 8 495 2312121
+                                    [items] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 87
+                                                        )
+
+                                                    [productName] => Штаны Цветочная Поляна
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 2199
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 123
+                                                        )
+
+                                                    [productName] => Нижнее белье Интимный Вечер
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 1099
+                                                )
+
+                                            [2] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 74
+                                                        )
+
+                                                    [productName] => Штаны Цветочная Поляна
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 2199
+                                                )
+
+                                            [3] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 134
+                                                        )
+
+                                                    [productName] => Нижнее белье Ночь Морозных Узоров
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 1459
+                                                )
+
+                                        )
+
+                                    [payments] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [type] => cash
+                                                    [amount] => 6956
+                                                    [externalId] => 2
+                                                    [paidAt] => 2018-02-15 15:26:27
+                                                    [status] => paid
+                                                )
+
+                                        )
+
+                                )
+
+                            [2] => Array
+                                (
+                                    [number] => 3
+                                    [externalId] => 3
+                                    [createdAt] => 2018-02-15 15:26:27
+                                    [customer] => Array
+                                        (
+                                            [externalId] => 1
+                                        )
+
+                                    [orderType] => eshop-individual
+                                    [status] => prepayed
+                                    [delivery] => Array
+                                        (
+                                            [cost] => 0
+                                            [address] => Array
+                                                (
+                                                    [text] => ул. Первомайская 93
+                                                )
+
+                                        )
+
+                                    [contragent] => Array
+                                        (
+                                            [contragentType] => individual
+                                        )
+
+                                    [discountManualAmount] => 0
+                                    [discountManualPercent] => 0
+                                    [lastName] => Иванов
+                                    [firstName] => Петр
+                                    [email] => example@example.com
+                                    [phone] => 8 495 2312121
+                                    [items] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 74
+                                                        )
+
+                                                    [productName] => Штаны Цветочная Поляна
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 2199
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 141
+                                                        )
+
+                                                    [productName] => Нижнее белье Огонек в Ночи
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 1499
+                                                )
+
+                                        )
+
+                                    [payments] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [type] => cash
+                                                    [amount] => 3698
+                                                    [externalId] => 3
+                                                    [paidAt] => 2018-02-15 15:26:28
+                                                    [status] => paid
+                                                )
+
+                                        )
+
+                                )
+
+                            [3] => Array
+                                (
+                                    [number] => 4
+                                    [externalId] => 4
+                                    [createdAt] => 2018-02-15 15:26:28
+                                    [customer] => Array
+                                        (
+                                            [externalId] => 1
+                                        )
+
+                                    [orderType] => eshop-individual
+                                    [status] => new
+                                    [delivery] => Array
+                                        (
+                                            [cost] => 0
+                                            [address] => Array
+                                                (
+                                                    [text] => ул. Первомайская 93
+                                                )
+
+                                        )
+
+                                    [contragent] => Array
+                                        (
+                                            [contragentType] => individual
+                                        )
+
+                                    [discountManualAmount] => 0
+                                    [discountManualPercent] => 0
+                                    [lastName] => Иванов
+                                    [firstName] => Петр
+                                    [email] => example@example.com
+                                    [phone] => 8 495 2312121
+                                    [items] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 129
+                                                        )
+
+                                                    [productName] => Нижнее белье Интимный Вечер
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 1199
+                                                )
+
+                                        )
+
+                                    [payments] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [type] => cash
+                                                    [amount] => 1199
+                                                    [externalId] => 4
+                                                    [status] => not-paid
+                                                )
+
+                                        )
+
+                                )
+
+                            [4] => Array
+                                (
+                                    [number] => 5
+                                    [externalId] => 5
+                                    [createdAt] => 2018-02-15 15:26:28
+                                    [customer] => Array
+                                        (
+                                            [externalId] => 1
+                                        )
+
+                                    [orderType] => eshop-individual
+                                    [status] => new
+                                    [delivery] => Array
+                                        (
+                                            [cost] => 0
+                                            [address] => Array
+                                                (
+                                                    [text] => ул. Первомайская 93
+                                                )
+
+                                        )
+
+                                    [contragent] => Array
+                                        (
+                                            [contragentType] => individual
+                                        )
+
+                                    [discountManualAmount] => 0
+                                    [discountManualPercent] => 0
+                                    [lastName] => Иванов
+                                    [firstName] => Петр
+                                    [email] => example@example.com
+                                    [phone] => 8 495 2312121
+                                    [items] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 140
+                                                        )
+
+                                                    [productName] => Нижнее белье Огонек в Ночи
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 1499
+                                                )
+
+                                        )
+
+                                    [payments] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [type] => cash
+                                                    [amount] => 1499
+                                                    [externalId] => 5
+                                                    [status] => not-paid
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:02:26
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersUpload
+            [errorMsg] => Customers are loaded with errors
+            [errors] => Array
+                (
+                    [0] => Customer with externalId=1 already exists.
+                )
+
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [externalId] => 1
+                                    [email] => rap19933@gmail.com
+                                    [createdAt] => 2018-02-15 15:25:12
+                                    [contragentType] => individual
+                                    [firstName] => Сергей
+                                    [lastName] => Матяшов
+                                )
+
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:02:26
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersUpload
+            [errorMsg] => Orders are loaded with errors
+            [errors] => Array
+                (
+                    [0] => Order with externalId=6 already exists.
+                )
+
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [number] => 6
+                                    [externalId] => 6
+                                    [createdAt] => 2018-02-15 16:56:49
+                                    [customer] => Array
+                                        (
+                                            [externalId] => 1
+                                        )
+
+                                    [orderType] => eshop-individual
+                                    [status] => new
+                                    [delivery] => Array
+                                        (
+                                            [cost] => 982.38
+                                            [address] => Array
+                                                (
+                                                    [text] => lipezk
+                                                )
+
+                                            [code] => spsr-expres
+                                        )
+
+                                    [contragent] => Array
+                                        (
+                                            [contragentType] => individual
+                                        )
+
+                                    [discountManualAmount] => 0
+                                    [discountManualPercent] => 0
+                                    [lastName] => Сергей
+                                    [firstName] => Матяшов
+                                    [email] => rap19933@gmail.com
+                                    [phone] => 000000000
+                                    [items] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 154
+                                                        )
+
+                                                    [productName] => Футболка Мужская Чистота
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 799
+                                                )
+
+                                        )
+
+                                    [payments] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [type] => e-money
+                                                    [amount] => 1781.38
+                                                    [externalId] => 6
+                                                    [status] => not-paid
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:35:39
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersUpload
+            [errorMsg] => Customers are loaded with errors
+            [errors] => Array
+                (
+                    [0] => Customer with externalId=1 already exists.
+                )
+
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [externalId] => 1
+                                    [email] => rap19933@gmail.com
+                                    [createdAt] => 2018-02-15 15:25:12
+                                    [contragentType] => individual
+                                    [firstName] => Сергей
+                                    [lastName] => Матяшов
+                                    [phones] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [number] => 000000000
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:35:40
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersUpload
+            [errorMsg] => Orders are loaded with errors
+            [errors] => Array
+                (
+                    [0] => Order with externalId=7 already exists.
+                )
+
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [number] => 7
+                                    [externalId] => 7
+                                    [createdAt] => 2018-02-15 17:35:19
+                                    [customer] => Array
+                                        (
+                                            [externalId] => 1
+                                        )
+
+                                    [orderType] => eshop-individual
+                                    [status] => new
+                                    [delivery] => Array
+                                        (
+                                            [cost] => 993.87
+                                            [address] => Array
+                                                (
+                                                    [text] => lipezk
+                                                )
+
+                                            [code] => spsr-expres
+                                        )
+
+                                    [contragent] => Array
+                                        (
+                                            [contragentType] => individual
+                                        )
+
+                                    [discountManualAmount] => 0
+                                    [discountManualPercent] => 0
+                                    [lastName] => Сергей
+                                    [firstName] => Матяшов
+                                    [email] => rap19933@gmail.com
+                                    [phone] => 000000000
+                                    [items] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [quantity] => 2
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 144
+                                                        )
+
+                                                    [productName] => Нижнее белье Розовое Смущенье
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 1199
+                                                )
+
+                                            [1] => Array
+                                                (
+                                                    [quantity] => 1
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 98
+                                                        )
+
+                                                    [productName] => Платье Весенняя Легкость
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 2999
+                                                )
+
+                                        )
+
+                                    [payments] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [type] => e-money
+                                                    [amount] => 6390.87
+                                                    [externalId] => 7
+                                                    [status] => not-paid
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:25:43
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersUpload
+            [errorMsg] => Customers are loaded with errors
+            [errors] => Array
+                (
+                    [0] => Customer with externalId=1 already exists.
+                )
+
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [externalId] => 1
+                                    [email] => rap19933@gmail.com
+                                    [createdAt] => 2018-02-15 15:25:12
+                                    [contragentType] => individual
+                                    [firstName] => Сергей
+                                    [lastName] => Матяшов
+                                    [phones] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [number] => 000000000
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:25:43
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersUpload
+            [errorMsg] => Orders are loaded with errors
+            [errors] => Array
+                (
+                    [0] => Order with externalId=8 already exists.
+                )
+
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [number] => 8
+                                    [externalId] => 8
+                                    [createdAt] => 2018-02-15 18:24:30
+                                    [customer] => Array
+                                        (
+                                            [externalId] => 1
+                                        )
+
+                                    [orderType] => eshop-individual
+                                    [status] => new
+                                    [delivery] => Array
+                                        (
+                                            [cost] => 500
+                                            [address] => Array
+                                                (
+                                                    [text] => lipezk
+                                                )
+
+                                            [code] => courier
+                                        )
+
+                                    [contragent] => Array
+                                        (
+                                            [contragentType] => individual
+                                        )
+
+                                    [discountManualAmount] => 0
+                                    [discountManualPercent] => 0
+                                    [lastName] => Сергей
+                                    [firstName] => Матяшов
+                                    [email] => rap19933@gmail.com
+                                    [phone] => 000000000
+                                    [items] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [quantity] => 45
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 157
+                                                        )
+
+                                                    [productName] => Футболка Женская Чистота
+                                                    [purchasePrice] => 999
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 749
+                                                )
+
+                                        )
+
+                                    [payments] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [type] => terminals
+                                                    [amount] => 34205
+                                                    [externalId] => 8
+                                                    [status] => not-paid
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:00:31
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => customersUpload
+            [errorMsg] => Customers are loaded with errors
+            [errors] => Array
+                (
+                    [0] => Customer with externalId=4 already exists.
+                )
+
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [externalId] => 4
+                                    [email] => ra@w.re
+                                    [createdAt] => 2018-02-15 18:43:44
+                                    [contragentType] => individual
+                                    [firstName] => новый
+                                    [lastName] => новыйф
+                                    [phones] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [number] => 6666666666666
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:00:31
+    [DATA] => Array
+        (
+            [api] => v5
+            [methodApi] => ordersUpload
+            [errorMsg] => Orders are loaded with errors
+            [errors] => Array
+                (
+                    [0] => Order with externalId=9 already exists.
+                )
+
+            [params] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [number] => 9
+                                    [externalId] => 9
+                                    [createdAt] => 2018-02-15 18:45:12
+                                    [customer] => Array
+                                        (
+                                            [externalId] => 4
+                                        )
+
+                                    [orderType] => eshop-individual
+                                    [status] => new
+                                    [customerComment] => 2626262626
+                                    [delivery] => Array
+                                        (
+                                            [cost] => 0
+                                            [address] => Array
+                                                (
+                                                    [text] => 363663636363
+                                                )
+
+                                            [code] => self-delivery
+                                        )
+
+                                    [contragent] => Array
+                                        (
+                                            [contragentType] => individual
+                                        )
+
+                                    [discountManualAmount] => 0
+                                    [discountManualPercent] => 0
+                                    [lastName] => новый
+                                    [firstName] => новыйф
+                                    [email] => ra@w.re
+                                    [phone] => 6666666666666
+                                    [items] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [quantity] => 3
+                                                    [offer] => Array
+                                                        (
+                                                            [externalId] => 145
+                                                        )
+
+                                                    [productName] => Нижнее белье Розовое Смущенье
+                                                    [discountManualAmount] => 0
+                                                    [discountManualPercent] => 0
+                                                    [initialPrice] => 1199
+                                                )
+
+                                        )
+
+                                    [payments] => Array
+                                        (
+                                            [0] => Array
+                                                (
+                                                    [type] => bank-card
+                                                    [amount] => 3597
+                                                    [externalId] => 9
+                                                    [status] => not-paid
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => 
+                )
+
+        )
+
+)

@@ -1,0 +1,1570 @@
+Array
+(
+    [TIME] => 2018-02-15 16:09:39
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 16:21:16
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 16:31:26
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 16:42:06
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 16:52:16
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:02:25
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:13:01
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:15:03
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:17:05
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:19:07
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:21:09
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:23:11
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:25:13
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:27:15
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:29:17
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:31:21
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:33:31
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:35:39
+    [DATA] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 401
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => order_product
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [id] => 124
+                            [offer] => Array
+                                (
+                                    [id] => 248
+                                    [externalId] => 144
+                                    [xmlId] => 346
+                                )
+
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                    [item] => Array
+                        (
+                            [id] => 124
+                            [initialPrice] => 1199
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 17:35:18
+                            [quantity] => 2
+                            [status] => new
+                            [offer] => Array
+                                (
+                                    [id] => 248
+                                    [externalId] => 144
+                                    [xmlId] => 346
+                                    [name] => Нижнее белье Розовое Смущенье
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 402
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => order_product
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [id] => 125
+                            [offer] => Array
+                                (
+                                    [id] => 292
+                                    [externalId] => 98
+                                    [xmlId] => 266
+                                )
+
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                    [item] => Array
+                        (
+                            [id] => 125
+                            [initialPrice] => 2999
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 17:35:18
+                            [quantity] => 1
+                            [status] => new
+                            [offer] => Array
+                                (
+                                    [id] => 292
+                                    [externalId] => 98
+                                    [xmlId] => 266
+                                    [name] => Платье Весенняя Легкость
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [id] => 403
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => status
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => Array
+                        (
+                            [code] => complete
+                        )
+
+                    [newValue] => Array
+                        (
+                            [code] => new
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [id] => 404
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => created_at
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 2018-02-15 12:52:55
+                    [newValue] => 2018-02-15 17:35:18
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [id] => 405
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => customer
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => Array
+                        (
+                            [id] => 28
+                            [externalId] => 4
+                            [site] => bitrix_test
+                        )
+
+                    [newValue] => Array
+                        (
+                            [id] => 27
+                            [externalId] => 1
+                            [site] => bitrix_test
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [id] => 406
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => delivery_cost
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 1023
+                    [newValue] => 993.87
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [id] => 407
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => delivery_type
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => Array
+                        (
+                            [code] => 2
+                        )
+
+                    [newValue] => Array
+                        (
+                            [code] => spsr-expres
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [id] => 408
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => first_name
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => FFFFFFFFFFFFFF
+                    [newValue] => Матяшов
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [id] => 409
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => full_paid_at
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 2018-02-15 13:20:12
+                    [newValue] => 
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [id] => 410
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => last_name
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 
+                    [newValue] => Сергей
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [id] => 411
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => phone
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 55555555555555
+                    [newValue] => 000000000
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [id] => 412
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => order_product
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => Array
+                        (
+                            [id] => 120
+                            [offer] => Array
+                                (
+                                    [id] => 76
+                                    [externalId] => 309
+                                    [xmlId] => 633
+                                )
+
+                        )
+
+                    [newValue] => 
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                    [item] => Array
+                        (
+                            [id] => 120
+                            [initialPrice] => 750
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 12:52:55
+                            [quantity] => 1
+                            [status] => saled
+                            [offer] => Array
+                                (
+                                    [id] => 76
+                                    [externalId] => 309
+                                    [xmlId] => 633
+                                    [name] => Ремень Плетение
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [id] => 413
+                    [createdAt] => 2018-02-15 17:35:19
+                    [source] => api
+                    [field] => order_product
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => Array
+                        (
+                            [id] => 121
+                            [offer] => Array
+                                (
+                                    [id] => 77
+                                    [externalId] => 316
+                                    [xmlId] => 644
+                                )
+
+                        )
+
+                    [newValue] => 
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                    [item] => Array
+                        (
+                            [id] => 121
+                            [initialPrice] => 715
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 12:52:55
+                            [quantity] => 1
+                            [status] => saled
+                            [offer] => Array
+                                (
+                                    [id] => 77
+                                    [externalId] => 316
+                                    [xmlId] => 644
+                                    [name] => Ремень Грубая Кожа
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:37:42
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:39:44
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:41:45
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:43:48
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:46:09
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:48:13
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:50:28
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:54:19
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 17:58:25
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:00:28
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:02:30
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:04:32
+    [DATA] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 414
+                    [createdAt] => 2018-02-15 18:02:44
+                    [source] => user
+                    [user] => Array
+                        (
+                            [id] => 6
+                        )
+
+                    [field] => status
+                    [oldValue] => Array
+                        (
+                            [code] => new
+                        )
+
+                    [newValue] => Array
+                        (
+                            [code] => complete
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => complete
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 415
+                    [createdAt] => 2018-02-15 18:02:44
+                    [source] => user
+                    [user] => Array
+                        (
+                            [id] => 6
+                        )
+
+                    [field] => payments.paid_at
+                    [oldValue] => 2018-02-15 13:20:12
+                    [newValue] => 2018-02-15 00:00:00
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => complete
+                        )
+
+                    [payment] => Array
+                        (
+                            [id] => 59
+                            [type] => cash
+                            [externalId] => 6
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [id] => 416
+                    [createdAt] => 2018-02-15 18:02:44
+                    [source] => code
+                    [field] => order_product.status
+                    [oldValue] => Array
+                        (
+                            [code] => new
+                        )
+
+                    [newValue] => Array
+                        (
+                            [code] => saled
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => complete
+                        )
+
+                    [item] => Array
+                        (
+                            [id] => 124
+                            [offer] => Array
+                                (
+                                    [id] => 248
+                                    [externalId] => 144
+                                    [xmlId] => 346
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [id] => 417
+                    [createdAt] => 2018-02-15 18:02:44
+                    [source] => code
+                    [field] => order_product.status
+                    [oldValue] => Array
+                        (
+                            [code] => new
+                        )
+
+                    [newValue] => Array
+                        (
+                            [code] => saled
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 49
+                            [externalId] => 7
+                            [site] => bitrix_test
+                            [status] => complete
+                        )
+
+                    [item] => Array
+                        (
+                            [id] => 125
+                            [offer] => Array
+                                (
+                                    [id] => 292
+                                    [externalId] => 98
+                                    [xmlId] => 266
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:06:34
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:08:37
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:11:07
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:13:10
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:16:35
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:21:03
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:23:26
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:25:42
+    [DATA] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 418
+                    [createdAt] => 2018-02-15 18:24:30
+                    [source] => api
+                    [field] => order_product
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [id] => 126
+                            [offer] => Array
+                                (
+                                    [id] => 231
+                                    [externalId] => 157
+                                    [xmlId] => 370
+                                )
+
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 50
+                            [externalId] => 8
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                    [item] => Array
+                        (
+                            [id] => 126
+                            [initialPrice] => 749
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 18:24:29
+                            [quantity] => 45
+                            [status] => new
+                            [offer] => Array
+                                (
+                                    [id] => 231
+                                    [externalId] => 157
+                                    [xmlId] => 370
+                                    [name] => Футболка Женская Чистота
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 999
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 419
+                    [createdAt] => 2018-02-15 18:24:30
+                    [source] => api
+                    [field] => created_at
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 2018-02-15 13:27:34
+                    [newValue] => 2018-02-15 18:24:29
+                    [order] => Array
+                        (
+                            [id] => 50
+                            [externalId] => 8
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [id] => 420
+                    [createdAt] => 2018-02-15 18:24:30
+                    [source] => api
+                    [field] => delivery_type
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => Array
+                        (
+                            [code] => 1
+                        )
+
+                    [newValue] => Array
+                        (
+                            [code] => courier
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 50
+                            [externalId] => 8
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [id] => 421
+                    [createdAt] => 2018-02-15 18:24:30
+                    [source] => api
+                    [field] => phone
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 79205443760
+                    [newValue] => 000000000
+                    [order] => Array
+                        (
+                            [id] => 50
+                            [externalId] => 8
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [id] => 422
+                    [createdAt] => 2018-02-15 18:24:30
+                    [source] => api
+                    [field] => order_product
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => Array
+                        (
+                            [id] => 122
+                            [offer] => Array
+                                (
+                                    [id] => 76
+                                    [externalId] => 309
+                                    [xmlId] => 633
+                                )
+
+                        )
+
+                    [newValue] => 
+                    [order] => Array
+                        (
+                            [id] => 50
+                            [externalId] => 8
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                    [item] => Array
+                        (
+                            [id] => 122
+                            [initialPrice] => 750
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 13:27:34
+                            [quantity] => 1
+                            [status] => new
+                            [offer] => Array
+                                (
+                                    [id] => 76
+                                    [externalId] => 309
+                                    [xmlId] => 633
+                                    [name] => Ремень Плетение
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:28:08
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:30:38
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:33:06
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:35:37
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:41:58
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-15 18:44:27
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:00:30
+    [DATA] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 423
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => api
+                    [field] => order_product
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [id] => 127
+                            [offer] => Array
+                                (
+                                    [id] => 249
+                                    [externalId] => 145
+                                    [xmlId] => 347
+                                )
+
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 51
+                            [externalId] => 9
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                    [item] => Array
+                        (
+                            [id] => 127
+                            [initialPrice] => 1199
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 18:45:10
+                            [quantity] => 3
+                            [status] => new
+                            [offer] => Array
+                                (
+                                    [id] => 249
+                                    [externalId] => 145
+                                    [xmlId] => 347
+                                    [name] => Нижнее белье Розовое Смущенье
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [id] => 424
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => api
+                    [field] => created_at
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 2018-02-15 13:41:57
+                    [newValue] => 2018-02-15 18:45:10
+                    [order] => Array
+                        (
+                            [id] => 51
+                            [externalId] => 9
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [id] => 425
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => api
+                    [field] => customer
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => Array
+                        (
+                            [id] => 27
+                            [externalId] => 1
+                            [site] => bitrix_test
+                        )
+
+                    [newValue] => Array
+                        (
+                            [id] => 28
+                            [externalId] => 4
+                            [site] => bitrix_test
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 51
+                            [externalId] => 9
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [id] => 426
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => api
+                    [field] => customer_comment
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 
+                    [newValue] => 2626262626
+                    [order] => Array
+                        (
+                            [id] => 51
+                            [externalId] => 9
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [id] => 427
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => api
+                    [field] => delivery_cost
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 500
+                    [newValue] => 0
+                    [order] => Array
+                        (
+                            [id] => 51
+                            [externalId] => 9
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [id] => 428
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => api
+                    [field] => delivery_type
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => Array
+                        (
+                            [code] => 1
+                        )
+
+                    [newValue] => Array
+                        (
+                            [code] => self-delivery
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 51
+                            [externalId] => 9
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [id] => 429
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => api
+                    [field] => email
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => rap19933@gmail.com
+                    [newValue] => ra@w.re
+                    [order] => Array
+                        (
+                            [id] => 51
+                            [externalId] => 9
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [id] => 430
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => api
+                    [field] => first_name
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => Матяшов
+                    [newValue] => новыйф
+                    [order] => Array
+                        (
+                            [id] => 51
+                            [externalId] => 9
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [id] => 431
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => api
+                    [field] => last_name
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => Сергей
+                    [newValue] => новый
+                    [order] => Array
+                        (
+                            [id] => 51
+                            [externalId] => 9
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [id] => 432
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => api
+                    [field] => phone
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 79205443760
+                    [newValue] => 6666666666666
+                    [order] => Array
+                        (
+                            [id] => 51
+                            [externalId] => 9
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [id] => 433
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => api
+                    [field] => order_product
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => Array
+                        (
+                            [id] => 123
+                            [offer] => Array
+                                (
+                                    [id] => 76
+                                    [externalId] => 309
+                                    [xmlId] => 633
+                                )
+
+                        )
+
+                    [newValue] => 
+                    [order] => Array
+                        (
+                            [id] => 51
+                            [externalId] => 9
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                    [item] => Array
+                        (
+                            [id] => 123
+                            [initialPrice] => 750
+                            [discountTotal] => 0
+                            [createdAt] => 2018-02-15 13:41:57
+                            [quantity] => 1
+                            [status] => new
+                            [offer] => Array
+                                (
+                                    [id] => 76
+                                    [externalId] => 309
+                                    [xmlId] => 633
+                                    [name] => Ремень Плетение
+                                )
+
+                            [properties] => Array
+                                (
+                                )
+
+                            [purchasePrice] => 0
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [id] => 434
+                    [createdAt] => 2018-02-15 18:45:11
+                    [source] => api
+                    [field] => payments
+                    [apiKey] => Array
+                        (
+                            [current] => 1
+                        )
+
+                    [oldValue] => 
+                    [newValue] => Array
+                        (
+                            [id] => 62
+                            [type] => bank-card
+                            [externalId] => 9
+                        )
+
+                    [order] => Array
+                        (
+                            [id] => 51
+                            [externalId] => 9
+                            [site] => bitrix_test
+                            [status] => new
+                        )
+
+                    [payment] => Array
+                        (
+                            [id] => 62
+                            [status] => not-paid
+                            [type] => bank-card
+                            [externalId] => 9
+                            [amount] => 3597
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:05:16
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:35:31
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:44:06
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 08:40:36
+    [DATA] => Array
+        (
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 10:13:50
+    [DATA] => Array
+        (
+        )
+
+)

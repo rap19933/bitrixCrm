@@ -1,0 +1,116 @@
+Array
+(
+    [TIME] => 2018-02-15 18:41:58
+    [DATA] => Array
+        (
+            [0] => Array
+                (
+                    [externalId] => 157
+                    [stores] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [code] => storage2
+                                    [available] => 50
+                                )
+
+                            [1] => Array
+                                (
+                                    [code] => storage1
+                                    [available] => 23
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 00:00:32
+    [DATA] => Array
+        (
+            [0] => Array
+                (
+                    [externalId] => 157
+                    [stores] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [code] => storage2
+                                    [available] => 50
+                                )
+
+                            [1] => Array
+                                (
+                                    [code] => storage1
+                                    [available] => 23
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 08:40:37
+    [DATA] => Array
+        (
+            [0] => Array
+                (
+                    [externalId] => 157
+                    [stores] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [code] => storage2
+                                    [available] => 50
+                                )
+
+                            [1] => Array
+                                (
+                                    [code] => storage1
+                                    [available] => 23
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [TIME] => 2018-02-16 10:13:51
+    [DATA] => Array
+        (
+            [0] => Array
+                (
+                    [externalId] => 157
+                    [stores] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [code] => storage2
+                                    [available] => 50
+                                )
+
+                            [1] => Array
+                                (
+                                    [code] => storage1
+                                    [available] => 23
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
