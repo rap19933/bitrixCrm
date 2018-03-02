@@ -16,6 +16,33 @@ if ($arParams["SET_TITLE"] == "Y")
 
 <? if (!empty($arResult["ORDER"])): ?>
 
+    <script type="text/javascript">
+
+        ga('send', 'pageview'); // здесь оканчивается немодифицированный код отслеживания. Добавляем следующие команды:
+
+        ga('require', 'ecommerce', 'ecommerce.js');  // функция, которая подключает модуль электронной торговли.
+        ga('ecommerce:addTransaction', {
+            'id': '<?=$arResult["ORDER"]["ID"]?>', // ID транзакции
+            'affiliation': '<?=$arResult["SITE_NAME"]?>',   // Название магазина
+            'revenue': '<?=$arResult["ORDER"]["PRICE"]?>',              // Общая стоимость заказа
+            'shipping': '<?=$arResult["ORDER"]["PRICE_DELIVERY"]?>',              // Стоимость доставки
+            //'tax': ''                          // Налог
+        });
+
+        // метод addItem нужно вызвать для каждого товара (позиции) в заказе:
+        <? foreach ($arResult["ORDER"]['PRODUCTS'] as $item):?>
+            ga('ecommerce:addItem', {
+                'id': '<?=$arResult["ORDER"]["ID"]?>',                    // ID транзакции
+                'name': '<?=$item["NAME"]?>',        // Название товара
+                'sku': '<?=$item["PRODUCT_ID"]?>',                 // Артикул или SKU
+                /*'category': '', */         // Размер, модель, категория или еще какая-то информация
+                'price': '<?=$item["PRICE"]?>',                  // Стоимость товара
+                'quantity': '<?=$item["QUANTITY"]?>'                  // Количество товара
+            });
+        <?endforeach;?>
+        ga('ecommerce:send');             // Отправка данных
+    </script>
+
 	<table class="sale_order_full_table">
 		<tr>
 			<td>

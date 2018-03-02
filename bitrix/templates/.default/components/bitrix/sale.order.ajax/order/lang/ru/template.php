@@ -92,6 +92,7 @@ $MESS["REGION_BLOCK_NAME_DEFAULT"] = "Регион доставки";
 $MESS["PAYMENT_BLOCK_NAME_DEFAULT"] = "Оплата";
 $MESS["DELIVERY_BLOCK_NAME_DEFAULT"] = "Доставка";
 $MESS["BUYER_BLOCK_NAME_DEFAULT"] = "Покупатель";
+$MESS["EXTRA_OPTIONS_BLOCK_NAME_DEFAULT"] = "Дополнительные параметры";
 $MESS["BACK_DEFAULT"] = "Назад";
 $MESS["FURTHER_DEFAULT"] = "Далее";
 $MESS["EDIT_DEFAULT"] = "изменить";

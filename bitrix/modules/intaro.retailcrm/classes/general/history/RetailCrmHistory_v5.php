@@ -56,6 +56,7 @@ class RetailCrmHistory
             $historyFilter['sinceId'] = $historyStart;
         }
 
+
         while (true) {
             $customerHistory = RCrmActions::apiMethod($api, 'customersHistory', __METHOD__, $historyFilter);
 
@@ -79,7 +80,7 @@ class RetailCrmHistory
             $GLOBALS['RETAIL_CRM_HISTORY'] = true;
 
             $newUser = new CUser;
-            
+
             foreach ($customers as $customer) {
                 if (function_exists('retailCrmBeforeCustomerSave')) {
                     $newResCustomer = retailCrmBeforeCustomerSave($customer);
@@ -207,9 +208,10 @@ class RetailCrmHistory
             }
             
             $GLOBALS['RETAIL_CRM_HISTORY'] = false;
-            
+
             //last id
             $end = array_pop($customerH);
+
             COption::SetOptionString(self::$MODULE_ID, self::$CRM_CUSTOMER_HISTORY, $end['id']);
             
             if ($customerHistory['pagination']['totalPageCount'] == 1) {

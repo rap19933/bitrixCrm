@@ -125,9 +125,10 @@ class RetailCrmInventories
                     }    
                     //for log                  
                     $splitedItems = array_chunk($invUpload, 200);
+
                     foreach ($splitedItems as $chunk) {
                         $log->write($chunk, 'inventoriesUpload');
-                        
+
                         foreach ($shops as $shop) {
                             RCrmActions::apiMethod($api, 'storeInventoriesUpload', __METHOD__, $chunk, $shop);
                             time_nanosleep(0, 250000000);
